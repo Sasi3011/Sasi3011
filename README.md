@@ -11,16 +11,13 @@ Full Stack Developer • UI/UX Designer • AI Enthusiast • Founder of Techno 
 <a href="https://github.com/Sasi3011">
 <img src="https://img.shields.io/github/followers/Sasi3011?label=Followers&style=for-the-badge">
 </a>
-
 <a href="https://github.com/Sasi3011?tab=repositories">
 <img src="https://img.shields.io/badge/Projects-View-blue?style=for-the-badge">
 </a>
-
-<a href="mailto:arungandhi2411@gmail.com">
+<a href="mailto:sasikiran.tt3011@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge">
 </a>
-
-<a href="https://www.linkedin.com/in/arun-gandhi">
+<a href="https://www.linkedin.com/in/sasikiran-3031s/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 </p>
@@ -41,36 +38,44 @@ About Me
 ---
 
 <h2>
+<img src="https://img.icons8.com/color/32/prize.png" width="28"/>
+Achievements
+</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Founder-Techno%20Vanam-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MERN%20Developer-Expert-green?style=for-the-badge"/>
+</p>
+
+---
+
+<h2>
 <img src="https://img.icons8.com/color/32/source-code.png" width="28"/>
 Tech Stack
 </h2>
 
 ### Languages
-
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts"/>
 </p>
 
 ### Frontend
-
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css,bootstrap"/>
 </p>
 
 ### Backend
-
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql"/>
 </p>
 
 ### AI / ML
-
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 </p>
 
 ### Tools
-
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,netlify,postman,docker,vscode,npm"/>
 </p>
@@ -79,32 +84,40 @@ Tech Stack
 
 <h2>
 <img src="https://img.icons8.com/color/32/combo-chart--v1.png" width="28"/>
-GitHub Statistics
+Development Metrics
 </h2>
 
+### 📊 Code & Contribution Dynamics
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sasi3011&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sasi3011&theme=tokyonight&utcOffset=5.5" width="48%"/>
+</p>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sasi3011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+### 🔤 Language Breakdowns
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sasi3011&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sasi3011&theme=tokyonight" width="48%"/>
+</p>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasi3011&layout=compact&theme=tokyonight&hide_border=true"/>
-
+### 📈 Global Repository Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sasi3011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasi3011&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sasi3011&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=Sasi3011&theme=tokyonight&hide_border=true" width="85%"/>
 </p>
 
 ---
 
 <h2>
 <img src="https://img.icons8.com/color/32/trophy.png" width="28"/>
-GitHub Trophies
+GitHub Overview
 </h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sasi3011&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sasi3011&theme=tokyonight"/>
 </p>
 
 ---
@@ -115,24 +128,18 @@ Contribution Activity
 </h2>
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sasi3011&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
 
 <h2>
 <img src="https://img.icons8.com/color/32/snake.png" width="28"/>
-Contribution Snake
+Contribution Snake Animation
 </h2>
 
-> Create the workflow below to enable this animation.
-
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/Sasi3011/Sasi3011/output/github-contribution-grid-snake-dark.svg">
-
 </p>
 
 ---
@@ -142,38 +149,9 @@ Contribution Snake
 3D Contribution Calendar
 </h2>
 
-> Enable using GitHub Actions.
-
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Sasi3011/Sasi3011/main/profile-3d-contrib/profile-night-rainbow.svg">
-
+<img src="./profile-3d-contrib/profile-night-rainbow.svg">
 </p>
-
----
-
-<h2>
-<img src="https://img.icons8.com/color/32/technology-items.png" width="28"/>
-Featured Technologies
-</h2>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,nextjs,tailwind,firebase,docker,git,github,python"/>
-
-</p>
-
----
-
-# ☕ Coding Activity
-
-```text
-Frontend Development    ████████████████░░░ 80%
-Backend Development     ██████████████░░░░ 70%
-UI/UX Design            █████████████████░ 85%
-Cloud & DevOps          █████████░░░░░░░░ 45%
-Artificial Intelligence ████████░░░░░░░░░ 40%
-```
 
 ---
 
@@ -183,43 +161,24 @@ Connect With Me
 </h2>
 
 <p align="center">
-
-<a href="mailto:arungandhi2411@gmail.com">
+<a href="mailto:sasikiran.tt3011@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-
 <a href="https://github.com/Sasi3011">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-
-<a href="https://linkedin.com/in/arun-gandhi">
+<a href="https://www.linkedin.com/in/sasikiran-3031s/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-
 </p>
 
 ---
 
-<h2>
-<img src="https://img.icons8.com/color/32/visible.png" width="28"/>
-Profile Views
-</h2>
-
 <p align="center">
-
+<b>Profile Views</b><br>
 <img src="https://komarev.com/ghpvc/?username=Sasi3011&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
 </p>
 
----
-
-<h2>
-<img src="https://img.icons8.com/color/32/quote-left.png" width="28"/>
-Favorite Quote
-</h2>
-
 <p align="center">
-
-> "Code. Create. Innovate. Repeat."
-
+<i>"Code. Create. Innovate. Repeat."</i>
 </p>
