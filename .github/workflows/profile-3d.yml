@@ -1,9 +1,9 @@
 name: GitHub Profile 3D Contrib
 
 on:
-  schedule:
-    - cron: "0 18 * * *"
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 permissions:
   contents: write
@@ -13,7 +13,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate 3D Contributions
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Sasi3011
+
+      - name: Commit generated files
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add .
+          git commit -m "Update 3D contribution graph" || echo "Nothing to commit"
+          git push
